@@ -1,11 +1,10 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: cake.png
+date: 2019
+img: PhoneApp.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+resources: Android Studio, HTML, CSS, JavaScript
+category: Mobile App Design
+description: To Do List application created with web development languages. The app allows users to add new tasks to complete and tracks when they are late. An infinite number of tasks can be added at any time, and the app displays them in the order that they're due. <br> With this app being created for cell phones, there is touch-screen capability, along with the ability to use a side scroller, if the cell phone doesn't have a touch-screen. <br> For more information and to see the code I used, follow the link here
 ---
