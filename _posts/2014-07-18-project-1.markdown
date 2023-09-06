@@ -1,11 +1,10 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: cabin.png
+date: 2019
+img: VideoGame.jpg 
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+resources: Unreal Engine, Bitbucket, Adobe Creative Suite
+category: UI/UX Video Games
+description: The Imaginarium is a video game about a child named Sam who is told to clean up their toys from around the house; getting bored, with each pickup of a toy, the child imagines being in a castle, where they face off against lava pits, enemies with bows and swords, and have to navigate throughout a maze by finding keys to unlock doors. <br> I worked on story narration and UI elements. I designed all of the menus (Main, Pause, End) and all of the displays (Arrow Counter, Health and Stamina Bars, Enemy Health). Along with the designing, I brought life to the UI elements by coding them, to ensure maximum functionality. <br> For more information and a more in-depth look into what I did, you can follow the link here
 ---
