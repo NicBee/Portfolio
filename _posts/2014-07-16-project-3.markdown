@@ -1,11 +1,10 @@
 ---
 layout: default
 modal-id: 3
-date: 2014-07-16
-img: circus.png
+date: 2019
+img: Website.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+resources: Cyberduck, Brackets, HTML, CSS
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: Pasta Amore is a family-owned Italian restaurant. The website was created from scratch, using only HTML and CSS. I followed the design document provided and committed to the parameters. I researched other restaurants, created a wireframe of the website, and coded accordingly. <br> For more information and to see the code I used, follow the link here
 ---
